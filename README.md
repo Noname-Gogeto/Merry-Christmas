@@ -1,2 +1,2 @@
-# Merry-Christmas
-Clone web for a friend :) 
+# Merry-Christmas-clone
+first time use github
